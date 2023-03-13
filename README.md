@@ -19,6 +19,11 @@ Afterwards enter the following command to build and install dmenu
     make clean install
 
 
+Applied Patches
+-------------
+- [highlight](https://tools.suckless.org/dmenu/patches/highlight/)
+- [password](https://tools.suckless.org/dmenu/patches/password/)
+
 Running dmenu
 -------------
 See the man page for details.
